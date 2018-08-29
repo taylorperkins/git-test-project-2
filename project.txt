@@ -3,11 +3,15 @@ writing with develop
 Mary's work
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Branden's work
 =======
 Sergey's work
 >>>>>>> dd9263a3939390773a1c5879286c93f65fd12e99
 =======
+=======
+Jerry Igiozee contributing to project as well.
+>>>>>>> 22383c202f0cef155f26310e65b4dba43b98d456
 Glenna contributing to project.
 Sergey's work
 
