@@ -2,7 +2,15 @@ writing with master
 writing with develop
 Mary's work
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sergey's work
 =======
 David H addition to project
 >>>>>>> david/add-new-line-to-project
+=======
+Davis contributing
+Jerry Igiozee contributing to project as well.
+Glenna contributing to project.
+Sergey's work
+
+>>>>>>> 147ef01f3bcf801b862b3cf8908eba041f1f4e45
