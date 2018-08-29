@@ -2,7 +2,13 @@ writing with master
 writing with develop
 Mary's work
 <<<<<<< HEAD
+<<<<<<< HEAD
 Branden's work
 =======
 Sergey's work
 >>>>>>> dd9263a3939390773a1c5879286c93f65fd12e99
+=======
+Glenna contributing to project.
+Sergey's work
+
+>>>>>>> 5b3e0b5260ee55dfa38ca1de1f8dae2276f0b7c4
