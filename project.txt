@@ -3,14 +3,24 @@ writing with develop
 Mary's work
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sergey's work
 =======
 David H addition to project
 >>>>>>> david/add-new-line-to-project
 =======
+=======
+Andrew Marsee contributing to project.
+>>>>>>> 328fead62ac21021a5c56d6ad90002fae0d30159
 Davis contributing
 Jerry Igiozee contributing to project as well.
 Glenna contributing to project.
 Sergey's work
+<<<<<<< HEAD
 
 >>>>>>> 147ef01f3bcf801b862b3cf8908eba041f1f4e45
+=======
+selam/mywork
+selam work done
+master
+>>>>>>> 328fead62ac21021a5c56d6ad90002fae0d30159
