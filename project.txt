@@ -1,4 +1,8 @@
 writing with master
 writing with develop
 Mary's work
+<<<<<<< HEAD
 Davis contributing
+=======
+Sergey's work
+>>>>>>> master
