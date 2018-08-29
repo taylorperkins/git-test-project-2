@@ -1,4 +1,8 @@
 writing with master
 writing with develop
 Mary's work
+<<<<<<< HEAD
 Branden's work
+=======
+Sergey's work
+>>>>>>> dd9263a3939390773a1c5879286c93f65fd12e99
