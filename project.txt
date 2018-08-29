@@ -4,12 +4,16 @@ Mary's work
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sergey's work
 =======
 David H addition to project
 >>>>>>> david/add-new-line-to-project
 =======
 =======
+=======
+writing with Taylor-Ashutosh
+>>>>>>> e5a051e1d2842693afa0f1bad951fd5ec739ea39
 Andrew Marsee contributing to project.
 >>>>>>> 328fead62ac21021a5c56d6ad90002fae0d30159
 Davis contributing
@@ -22,5 +26,16 @@ Sergey's work
 =======
 selam/mywork
 selam work done
+<<<<<<< HEAD
 master
 >>>>>>> 328fead62ac21021a5c56d6ad90002fae0d30159
+=======
+
+Branden's work
+
+Bernes contributing to project.
+
+
+Amanuel's addition
+
+>>>>>>> e5a051e1d2842693afa0f1bad951fd5ec739ea39
