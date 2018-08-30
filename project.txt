@@ -1,43 +1,19 @@
 writing with master
 writing with develop
 Mary's work
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Sergey's work
-=======
 David H addition to project
->>>>>>> david/add-new-line-to-project
-=======
-=======
-=======
 writing with Taylor-Ashutosh
->>>>>>> e5a051e1d2842693afa0f1bad951fd5ec739ea39
 Andrew Marsee contributing to project.
->>>>>>> 328fead62ac21021a5c56d6ad90002fae0d30159
+Binu Thomas contributing to project.
 Davis contributing
 Jerry Igiozee contributing to project as well.
 Glenna contributing to project.
 Sergey's work
-<<<<<<< HEAD
-
->>>>>>> 147ef01f3bcf801b862b3cf8908eba041f1f4e45
-=======
 selam/mywork
 selam work done
-<<<<<<< HEAD
-master
->>>>>>> 328fead62ac21021a5c56d6ad90002fae0d30159
-=======
-
 Branden's work
-
 Bernes contributing to project.
-
-
 Amanuel's addition
-
->>>>>>> e5a051e1d2842693afa0f1bad951fd5ec739ea39
 Trying to add to this file, please!
 P.S. this is UrLeaka ;) 
