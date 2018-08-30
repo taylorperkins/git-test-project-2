@@ -1,6 +1,8 @@
 writing with master
 writing with develop
 Mary's work
+Branden's work
+Sergey's work
 Michael contributed.
 hari/contribute-to-project-file
 Hari contributing to the project.
